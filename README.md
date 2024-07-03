@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serajur Reza Chowdhury</h1>
 <h3 align="center">A passionate software engineer and problem solver from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serajur-reza&label=Profile%20views&color=0e75b6&style=flat" alt="serajur-reza" /> </p>
+
 
 <p align="left"> I am a highly skilled front-end based software engineer. Proficient in HTML, CSS, JavaScript, TypeScript, React, Redux, Vue, Node, Express, MongoDB with strong problem-solving and communication skills, with a proven track record of delivering high-quality web applications. Committed to staying updated with the latest industry trends and continuously improving development skills. </p>
 
@@ -120,3 +120,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serajur-reza&show_icons=true&locale=en" alt="serajur-reza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serajur-reza&" alt="serajur-reza" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serajur-reza&label=Profile%20views&color=0e75b6&style=flat" alt="serajur-reza" /> </p>
