@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQG5VzbtMt0iOw/profile-displaybackgroundimage-shrink_350_1400/0/1720117097908?e=1726704000&v=beta&t=b63Z7z0YuxL4yqZw3FCD_Lb7KRziEPIg3oDK0ofdmmk)]
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQG5VzbtMt0iOw/profile-displaybackgroundimage-shrink_350_1400/0/1720117097908?e=1726704000&v=beta&t=b63Z7z0YuxL4yqZw3FCD_Lb7KRziEPIg3oDK0ofdmmk)
 
 <h1 align="center">Hi 👋, I'm Serajur Reza Chowdhury</h1>
 <h3 align="center">A passionate software engineer and problem solver from Bangladesh</h3>
